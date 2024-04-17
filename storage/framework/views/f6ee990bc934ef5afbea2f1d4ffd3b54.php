@@ -1,0 +1,1 @@
+welcome ddd<?php /**PATH C:\xampp\htdocs\electro-commerce\E-commerce-main\E-commerce-main\resources\views/mails/processingOrder.blade.php ENDPATH**/ ?>
